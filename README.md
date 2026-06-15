@@ -3,14 +3,14 @@
 Bem-vindo ao meu PortfolioHUB! Este repositório centraliza meus projetos, currículo e informações profissionais, desenvolvido como entrega final do bootcamp.
 
 ## 👨‍💻 Sobre Mim
-Olá! Me chamo Thiago Seabra, tenho 18 anos e sou natural de Brasília, DF. Sou estudante do 1º semestre de Ciência da Computação no CEUB[cite: 3]. Desde pequeno sempre fui curioso com tecnologia e, atualmente, foco em construir uma base técnica estruturada, unindo lógica e criatividade para resolver problemas reais[cite: 3].
+Olá! Me chamo Thiago Seabra, tenho 18 anos e sou natural de Brasília, DF. Sou estudante do 1º semestre de Ciência da Computação no CEUB[cite: 3]. Desde pequeno sempre fui curioso com tecnologia e, atualmente, foco em construir uma base técnica estruturada, unindo lógica e criatividade para resolver problemas reais.
 
-Estou disponível para oportunidades de estágio e projetos colaborativos[cite: 3].
+Estou disponível para oportunidades de estágio e projetos colaborativos.
 
 ## 🛠️ Minhas Skills
-* **Linguagens:** Java, Python, C[cite: 3]
-* **Versionamento:** Git e GitHub[cite: 3]
-* **Competências Fundamentais:** Lógica de Programação, Pseudocódigo, Arquitetura de Computadores e Banco de Dados[cite: 3]
+* **Linguagens:** Java, Python, C
+* **Versionamento:** Git e GitHub
+* **Competências Fundamentais:** Lógica de Programação, Pseudocódigo, Arquitetura de Computadores e Banco de Dados
 
 ## 📁 Estrutura do Repositório
 * `/apresentacao`: Contém o link e o roteiro do vídeo de apresentação do projeto.
@@ -18,7 +18,7 @@ Estou disponível para oportunidades de estágio e projetos colaborativos[cite: 
 * `/site`: Acesso ao meu portfólio web.
 
 ## 📞 Contatos
-* **E-mail:** thiago.seaabra@gmail.com[cite: 3]
-* **Telefone:** +55 61 99885-5055[cite: 3]
+* **E-mail:** thiago.seaabra@gmail.com
+* **Telefone:** +55 61 99885-5055
 * **LinkedIn:** [Acesse meu perfil](www.linkedin.com/in/thiagoseabraaquino)
 * **Portfólio Web:** [Google Sites](https://sites.google.com/view/thiagoportifolio/página-inicial)[cite: 3]
