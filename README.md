@@ -21,4 +21,4 @@ Estou disponível para oportunidades de estágio e projetos colaborativos.
 * **E-mail:** thiago.seaabra@gmail.com
 * **Telefone:** +55 61 99885-5055
 * **LinkedIn:** [Acesse meu perfil](www.linkedin.com/in/thiagoseabraaquino)
-* **Portfólio Web:** [Google Sites](https://sites.google.com/view/thiagoportifolio/página-inicial)[cite: 3]
+* **Portfólio Web:** [Google Sites](https://sites.google.com/view/thiagoportifolio/p%C3%A1gina-inicial)
