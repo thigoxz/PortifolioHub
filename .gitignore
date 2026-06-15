@@ -1,0 +1,10 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Pastas de dependências genéricas
+node_modules/
+__pycache__/
