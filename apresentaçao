@@ -1,1 +1,39 @@
+# 📢 Apresentação do Projeto: PortfolioHUB
 
+Este espaço é dedicado à documentação de encerramento, lições aprendidas e ao registro da apresentação em vídeo do ecossistema do meu **PortfolioHUB**.
+
+## 🎥 Vídeo de Apresentação
+O vídeo explicativo detalhando o funcionamento deste repositório, as decisões de arquitetura de pastas e as políticas de segurança aplicadas pode ser assistido no link abaixo:
+
+👉 **[ASSISTIR APRESENTAÇÃO NO YOUTUBE](COLOQUE_O_LINK_DO_SEU_VÍDEO_AQUI)**
+
+---
+
+## 📝 Roteiro da Apresentação & Resumo da Implantação
+*(Este documento serviu como guia para a gravação do vídeo de entrega final)*
+
+### 1. Introdução e Objetivo Geral
+* **Apresentador:** Thiago Seabra Aquino da Silva
+* **Curso:** Ciência da Computação (1º Semestre) - CEUB
+* **Contexto:** Implantação do PortfolioHUB, uma plataforma centralizada integrada com Git e GitHub para gerenciar, armazenar e exibir projetos e portfólios digitais de forma segura e estruturada.
+
+### 2. Estrutura de Pastas e Componentes do Repositório
+O repositório foi organizado metodicamente para garantir clareza acadêmica e profissional:
+* **`README.md` (Raiz):** Atua como a página de pouso (Landing Page) do perfil, resumindo quem sou, minhas principais competências técnicas em Java, C, e Python, além de centralizar as formas de contato e links profissionais.
+* **`/site`:** Contém o redirecionamento e integração direta para o portfólio visual desenvolvido na web via Google Sites.
+* **`/curriculo`:** Repositório do meu histórico profissional e acadêmico em formato PDF.
+* **`/apresentacao`:** Esta seção atual, contendo a documentação final e o link da gravação em vídeo.
+
+### 3. Gestão de Usuários e Segurança Implementada
+Conforme os critérios de segurança estabelecidos no desafio, o ecossistema conta com:
+* **Arquivo `SECURITY.md`:** Documento oficial detalhando a política de segurança do repositório e o canal de comunicação para reporte de vulnerabilidades.
+* **Proteção de Branch:** Branch principal (`main`) protegida contra *commits* diretos e desordenados, exigindo abertura obrigatória de *Pull Requests*.
+* **Autenticação em Duas Etapas (2FA):** Ativa para assegurar que apenas acessos legítimos realizem modificações na estrutura de produção do portfólio.
+* **`.gitignore`:** Configurado adequadamente na raiz para impedir o rastreamento e o upload acidental de arquivos temporários do sistema ou variáveis de ambiente confidenciais.
+
+### 4. Desafios Superados e Apoio da IA GEMINI
+* **Uso do Google GEMINI:** A inteligência artificial foi utilizada ativamente como guia em toda a trilha de implantação, auxiliando no planejamento do escopo, na formatação dos arquivos em Markdown e na revisão das melhores práticas de segurança de código.
+* **Principais Desafios:** A estruturação ágil do ambiente Git e o alinhamento rigoroso entre a identidade visual do GitHub e as metas de segurança exigidas pelo bootcamp.
+
+---
+*Entrega individual realizada em conformidade com o regulamento do desafio.*
